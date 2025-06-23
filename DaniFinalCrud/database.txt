@@ -1,0 +1,3 @@
+3_2025_1,2025,3,Dani,3book
+Dani_2025_1,2025,Dani,Danie,sang penakluk bumi
+Rika_2024_1,2024,Rika Sari,Petualangan Nusantara,kisah perjalanan melintasi kepulauan indonesia
